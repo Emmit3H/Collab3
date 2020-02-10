@@ -18,7 +18,7 @@ public class ThirdCollaborate {
         System.out.println("Hello world robloxguy365");
     }
     public static void main(String[] args) {
-      master
+     
        hiFriend();
      
 
@@ -28,14 +28,13 @@ public class ThirdCollaborate {
         
         helloWorldRoblox();
     } 
- master
     
-    }
+    
 
 
 
 
-public static void hiFriend(){
+static void hiFriend(){
     System.out.println("Hi Friends");
 }
 
