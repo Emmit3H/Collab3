@@ -18,12 +18,25 @@ public class ThirdCollaborate {
         System.out.println("Hello world robloxguy365");
     }
     public static void main(String[] args) {
+      master
+       hiFriend();
+     
+
         // TODO code application logic here
         
         
         
         helloWorldRoblox();
-        
-    }
+    } 
+ master
     
+    }
+
+
+
+
+public static void hiFriend(){
+    System.out.println("Hi Friends");
+}
+
 }
